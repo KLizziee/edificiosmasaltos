@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+#nav {
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 10px;
+    position: fixed;
+    background-image: -webkit-linear-gradient(270deg,rgba(243,228,228,1.00) 0%,rgba(173,172,197,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(243,228,228,1.00) 0%,rgba(173,172,197,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(243,228,228,1.00) 0%,rgba(173,172,197,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(243,228,228,1.00) 0%,rgba(173,172,197,1.00) 100%);
+    width: 70%;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+#l5 p img {
+    float: left;
+    margin-right: 20px;
+}
+#l4 p img {
+    float: right;
+    margin-left: 20px;
+}
+#l3 p img {
+    float: left;
+    margin-right: 20px;
+}
+#l2 p img {
+    float: right;
+    margin-left: 20px;
+    text-align: justify;
+}
+#l1 p img {
+    float: left;
+    margin-right: 20px;
+}
+
+
+
+
+
+#content img {
+    margin-bottom: 30px;
+}
+#l5 {
+    padding: 20px;
+    background-image: url(../images/c.png);
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+#content {
+    width: 70%;
+    margin-left: 15%;
+    text-align: justify;
+}
+#l4 {
+    padding: 20px;
+    background-image: url(../images/j.png);
+    margin-bottom: 20px;
+    text-align: justify;
+}
+#l3 {
+    padding: 20px;
+    background-image: url(../images/f.png);
+    margin-bottom: 20px;
+    text-align: justify;
+}
+#l2 {
+    padding: 20px;
+    background-image: url(../images/k.png);
+}
+#l1 {
+    padding: 20px;
+    margin-top: 20px;
+    background-image: url(../images/b.png);
+}
